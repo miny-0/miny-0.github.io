@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 # Site Settings
 locale                   : "kr-KOR"
-title                    : "게임개발자를 위한 한걸음"
+title                    : "M.O.W"
 title_separator          : "-"
-subtitle                 : "2021-06-19~" # site tagline that appears below site title in masthead
-name                     : "Ray Lee"
-description              : "개발자가 되기 위한 한걸음!"
+subtitle                 : "2022-06-22~" # site tagline that appears below site title in masthead
+name                     : "minyoung"
+description              : "Hello!"
 url                      : "https://RayLee-Kor.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -97,43 +97,29 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ray Lee"
+  name             : "minyoung"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "게임개발을 꿈꾸는 한 대학생"
-  location         : "Seoul, Korea"
-  email            : "wooo519@naver.com"
+  bio              : "대학생"
+  location         : "Korea"
+  email            : "rlaals0411@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "wooo519@email.com"
+      url: "rlaals0411@naver.com"
     - label: "Github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/RayLee-Kor"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label: "HomePage"
       icon: "fab fa-fw fa-link"
       # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+
 
 # Site Footer
 footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: wooo519@naver.com
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: rlaals0411@naver.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/RayLee-Kor"
@@ -143,10 +129,6 @@ footer:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
-
 
 # Reading Files
 include:
