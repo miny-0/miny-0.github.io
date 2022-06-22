@@ -101,10 +101,8 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "대학생"
   location         : "Korea"
+  email            : "rlaals0411@naver.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "rlaals0411@naver.com"
     - label: "Github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/minyoung-0411"
